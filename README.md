@@ -9,5 +9,8 @@ Un curso increible de platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * creado por Santi Torsi
+* creado por Santi 
+* Incluye ejemplos en linux, windows y mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.
