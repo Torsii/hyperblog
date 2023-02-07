@@ -8,6 +8,7 @@ Un curso increible de platzi
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-* creado por Santi Torsi
+* creado por Santi 
+* Incluye ejemplos en linux, windows y mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.
