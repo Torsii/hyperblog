@@ -10,5 +10,6 @@ Un curso increible de platzi
 * Las personalidades múltiples de Freddy
 * creado por Santi 
 * Incluye ejemplos en linux, windows y mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.
